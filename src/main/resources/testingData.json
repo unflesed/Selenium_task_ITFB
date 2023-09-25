@@ -1,0 +1,7 @@
+{
+  "name": "Alex",
+  "email": "alex@gmail.com",
+  "currentAddress": "Moscow",
+  "permanentAddress": "Minsk",
+  "textForPrompt": "Test name"
+}
